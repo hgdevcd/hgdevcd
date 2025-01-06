@@ -44,6 +44,14 @@ Bienvenue sur mon profil GitHub ! Je suis **Herman Geku**, un **développeur ful
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgdevcd)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgdevcd&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📫 Me contacter :
 - **Email** : [hg dev]()
 - **LinkedIn** : [@hgdevcd](https://www.linkedin.com/in/hgdevcd)
